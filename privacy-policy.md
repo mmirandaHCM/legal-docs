@@ -1,5 +1,5 @@
 # Política de Privacidad  
-**Última actualización**: <25 de octubre de 2023>  
+**Última actualización**: <25 de febrero de 2025>  
 
 ## 1. Datos que Recopilamos  
 Accedemos únicamente a información **pública** de TikTok:  
@@ -18,7 +18,7 @@ Los datos se analizan para:
 
 ## 4. Derechos del Usuario  
 Si eres influencer y deseas excluir tu perfil de nuestros análisis, contáctanos en:  
-📧 <privacidad@tuempresa.com>  
+📧 <mmiranda@hcm-global.com>  
 
 ## 5. Cumplimiento Legal  
 Nos regimos por el **RGPD (UE)** y **COPPA (EE.UU.)** para protección de datos.  
