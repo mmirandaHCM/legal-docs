@@ -1,8 +1,24 @@
-# Privacy Policy
+# Política de Privacidad  
+**Última actualización**: <25 de octubre de 2023>  
 
-Last updated: February 25, 2025
-## Interpretation and Definitions
+## 1. Datos que Recopilamos  
+Accedemos únicamente a información **pública** de TikTok:  
+- Nombres de usuario.  
+- Conteo de seguidores, likes y comentarios.  
+- Hashtags utilizados en videos públicos.  
 
-### Interpretation
+## 2. Uso de los Datos  
+Los datos se analizan para:  
+- Calcular métricas de engagement.  
+- Generar informes personalizados para clientes.  
 
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+## 3. Almacenamiento y Seguridad  
+- Los datos se guardan en **Azure SQL**, servicio en la nube de Microsoft con cifrado de extremo a extremo.  
+- No compartimos información con terceros sin consentimiento.  
+
+## 4. Derechos del Usuario  
+Si eres influencer y deseas excluir tu perfil de nuestros análisis, contáctanos en:  
+📧 <privacidad@tuempresa.com>  
+
+## 5. Cumplimiento Legal  
+Nos regimos por el **RGPD (UE)** y **COPPA (EE.UU.)** para protección de datos.  
