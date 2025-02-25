@@ -1,5 +1,5 @@
 # Términos de Servicio  
-**Última actualización**: <25 de octubre de 2023>  
+**Última actualización**: <25 de febrero de 2025>  
 
 ## 1. Uso de la Aplicación  
 La herramienta "<Analizador de Influencers>" accede exclusivamente a **datos públicos de perfiles de TikTok** (nombre de usuario, seguidores, likes, hashtags) para generar análisis de engagement y recomendaciones de marketing.  
@@ -10,4 +10,4 @@ La herramienta "<Analizador de Influencers>" accede exclusivamente a **datos pú
 
 ## 3. Contacto  
 Para consultas sobre estos términos, escríbenos a:  
-📧 <legal@tuempresa.com>  
+📧 <mmiranda@hcm-global.com>
