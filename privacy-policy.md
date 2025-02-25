@@ -2,7 +2,7 @@
 **Última actualización**: <25 de febrero de 2025>  
 
 ## 1. Datos que Recopilamos  
-Accedemos únicamente a información **pública** de TikTok:  
+Accedemos únicamente a información **publica** de TikTok:  
 - Nombres de usuario.  
 - Conteo de seguidores, likes y comentarios.  
 - Hashtags utilizados en videos públicos.  
